@@ -1,766 +1,766 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="LA 1 ES" tvg-name="ES: LA 1 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgxHLfkUtumUXg_OFa-OoYPNNQC4-kLEU-HwybcR63xAY2dtnCl81Je-NfmOBTuRUfC2s&usqp=CAU" group-title="ESPAÑA TDT",ES: LA 1 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564182
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564182
 #EXTINF:-1 tvg-id="LA 1 ES" tvg-name="ES: LA 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgxHLfkUtumUXg_OFa-OoYPNNQC4-kLEU-HwybcR63xAY2dtnCl81Je-NfmOBTuRUfC2s&usqp=CAU" group-title="ESPAÑA TDT",ES: LA 1 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564183
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564183
 #EXTINF:-1 tvg-id="LA 1 ES" tvg-name="ES: LA 1 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgxHLfkUtumUXg_OFa-OoYPNNQC4-kLEU-HwybcR63xAY2dtnCl81Je-NfmOBTuRUfC2s&usqp=CAU" group-title="ESPAÑA TDT",ES: LA 1 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564184
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564184
 #EXTINF:-1 tvg-id="LA 2 ES" tvg-name="ES: LA 2 SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/LA2" group-title="ESPAÑA TDT",ES: LA 2 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/53
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/53
 #EXTINF:-1 tvg-id="LA 2 ES" tvg-name="ES: LA 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/LA2" group-title="ESPAÑA TDT",ES: LA 2 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/111
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/111
 #EXTINF:-1 tvg-id="LA 2 ES" tvg-name="ES: LA 2 FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/LA2" group-title="ESPAÑA TDT",ES: LA 2 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294935
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294935
 #EXTINF:-1 tvg-id="Antena 3 ES" tvg-name="ES: ANTENA 3 SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/A3" group-title="ESPAÑA TDT",ES: ANTENA 3 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/2
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/2
 #EXTINF:-1 tvg-id="Antena 3 ES" tvg-name="ES: ANTENA 3 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/A3" group-title="ESPAÑA TDT",ES: ANTENA 3 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/62
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/62
 #EXTINF:-1 tvg-id="Antena 3 ES" tvg-name="ES: ANTENA 3 FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/A3" group-title="ESPAÑA TDT",ES: ANTENA 3 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294937
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294937
 #EXTINF:-1 tvg-id="FDF ES" tvg-name="ES: CUATRO SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/C4" group-title="ESPAÑA TDT",ES: CUATRO SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/45
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/45
 #EXTINF:-1 tvg-id="Cuatro ES" tvg-name="ES: CUATRO HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/C4" group-title="ESPAÑA TDT",ES: CUATRO HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/68
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/68
 #EXTINF:-1 tvg-id="Cuatro ES" tvg-name="ES: CUATRO FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/C4" group-title="ESPAÑA TDT",ES: CUATRO FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294939
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294939
 #EXTINF:-1 tvg-id="Telecinco ES" tvg-name="ES: TELECINCO SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/T5" group-title="ESPAÑA TDT",ES: TELECINCO SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/58
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/58
 #EXTINF:-1 tvg-id="Telecinco ES" tvg-name="ES: TELECINCO HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/T5" group-title="ESPAÑA TDT",ES: TELECINCO HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/69
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/69
 #EXTINF:-1 tvg-id="Telecinco ES" tvg-name="ES: TELECINCO FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/T5" group-title="ESPAÑA TDT",ES: TELECINCO FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294938
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294938
 #EXTINF:-1 tvg-id="La Sexta ES" tvg-name="ES: LA SEXTA SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/SEXTA" group-title="ESPAÑA TDT",ES: LA SEXTA SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/54
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/54
 #EXTINF:-1 tvg-id="La Sexta ES" tvg-name="ES: LA SEXTA HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/SEXTA" group-title="ESPAÑA TDT",ES: LA SEXTA HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/63
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/63
 #EXTINF:-1 tvg-id="La Sexta ES" tvg-name="ES: LA SEXTA FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/SEXTA" group-title="ESPAÑA TDT",ES: LA SEXTA FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294936
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294936
 #EXTINF:-1 tvg-id="24 Horas" tvg-name="ES: 24 HORAS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="ESPAÑA NOTICIAS",ES: 24 HORAS SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/29
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/29
 #EXTINF:-1 tvg-id="24 Horas" tvg-name="ES: 24 HORAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="ESPAÑA NOTICIAS",ES: 24 HORAS HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294439
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294439
 #EXTINF:-1 tvg-id="24 Horas" tvg-name="ES: 24 HORAS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="ESPAÑA NOTICIAS",ES: 24 HORAS FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/354643
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/354643
 #EXTINF:-1 tvg-id="" tvg-name="ES: EURONEWS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="ESPAÑA NOTICIAS",ES: EURONEWS SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781253
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781253
 #EXTINF:-1 tvg-id="" tvg-name="ES: EURONEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="ESPAÑA NOTICIAS",ES: EURONEWS HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781252
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781252
 #EXTINF:-1 tvg-id="" tvg-name="ES: EURONEWS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="ESPAÑA NOTICIAS",ES: EURONEWS FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781251
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781251
 #EXTINF:-1 tvg-id="" tvg-name="ES: FOX NEWS SD" tvg-logo="http://51.254.112.244:58200/stream/FOXNEWS%20(1080p@6000kb)/stream.m3u8" group-title="ESPAÑA NOTICIAS",ES: FOX NEWS SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781250
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781250
 #EXTINF:-1 tvg-id="" tvg-name="ES: FOX NEWS HD" tvg-logo="http://51.254.112.244:58200/stream/FOXNEWS%20(1080p@6000kb)/stream.m3u8" group-title="ESPAÑA NOTICIAS",ES: FOX NEWS HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781249
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781249
 #EXTINF:-1 tvg-id="" tvg-name="ES: FOX NEWS FHD" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Fox-News-Logo.png" group-title="ESPAÑA NOTICIAS",ES: FOX NEWS FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781248
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781248
 #EXTINF:-1 tvg-id="" tvg-name="ES: CNN SD" tvg-logo="https://toppng.com/uploads/preview/cnn-international-logo-png-cnn-logo-11562982950rfhtq9kum0.png" group-title="ESPAÑA NOTICIAS",ES: CNN SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781247
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781247
 #EXTINF:-1 tvg-id="" tvg-name="ES: CNN HD" tvg-logo="https://toppng.com/uploads/preview/cnn-international-logo-png-cnn-logo-11562982950rfhtq9kum0.png" group-title="ESPAÑA NOTICIAS",ES: CNN HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781246
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781246
 #EXTINF:-1 tvg-id="" tvg-name="ES: CNN FHD" tvg-logo="https://toppng.com/uploads/preview/cnn-international-logo-png-cnn-logo-11562982950rfhtq9kum0.png" group-title="ESPAÑA NOTICIAS",ES: CNN FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781245
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781245
 #EXTINF:-1 tvg-id="" tvg-name="ES: WORLD BBC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/1200px-BBC_World_News_2022.svg.png" group-title="ESPAÑA NOTICIAS",ES: WORLD BBC SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781244
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781244
 #EXTINF:-1 tvg-id="" tvg-name="ES: WORLD BBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/1200px-BBC_World_News_2022.svg.png" group-title="ESPAÑA NOTICIAS",ES: WORLD BBC HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781243
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781243
 #EXTINF:-1 tvg-id="" tvg-name="ES: WORLD BBC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/1200px-BBC_World_News_2022.svg.png" group-title="ESPAÑA NOTICIAS",ES: WORLD BBC FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781242
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781242
 #EXTINF:-1 tvg-id="Telemadrid" tvg-name="ES: TELEMADRID SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/TELMAD" group-title="ESPAÑA TDT",ES: TELEMADRID SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315429
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315429
 #EXTINF:-1 tvg-id="Telemadrid" tvg-name="ES: TELEMADRID HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/TELMAD" group-title="ESPAÑA TDT",ES: TELEMADRID HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/308430
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/308430
 #EXTINF:-1 tvg-id="Telecinco ES" tvg-name="ES: TELEMADRID FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/TELMAD" group-title="ESPAÑA TDT",ES: TELEMADRID FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315430
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315430
 #EXTINF:-1 tvg-id="AMC ES" tvg-name="ES: AMC BREAK SD" tvg-logo="https://i.ibb.co/yRbX8xX/amc-break-us.png" group-title="ESPAÑA CINEMA",ES: AMC BREAK SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315431
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315431
 #EXTINF:-1 tvg-id="AMC ES" tvg-name="ES: AMC BREAK HD" tvg-logo="https://i.ibb.co/yRbX8xX/amc-break-us.png" group-title="ESPAÑA CINEMA",ES: AMC BREAK HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315432
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315432
 #EXTINF:-1 tvg-id="AandE ES" tvg-name="ES: AMC BREAK FHD" tvg-logo="https://i.ibb.co/yRbX8xX/amc-break-us.png" group-title="ESPAÑA CINEMA",ES: AMC BREAK FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315433
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315433
 #EXTINF:-1 tvg-id="Canal Sur ES" tvg-name="ES: CANAL SUR SD" tvg-logo="https://provys.com/wp-content/uploads/2020/08/logo-clients-canal-sur.png" group-title="ESPAÑA TDT",ES: CANAL SUR SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391164
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391164
 #EXTINF:-1 tvg-id="Canal Sur ES" tvg-name="ES: CANAL SUR HD" tvg-logo="https://provys.com/wp-content/uploads/2020/08/logo-clients-canal-sur.png" group-title="ESPAÑA TDT",ES: CANAL SUR HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/436569
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/436569
 #EXTINF:-1 tvg-id="Canal Sur ES" tvg-name="ES: CANAL SUR FHD" tvg-logo="https://provys.com/wp-content/uploads/2020/08/logo-clients-canal-sur.png" group-title="ESPAÑA TDT",ES: CANAL SUR FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391132
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391132
 #EXTINF:-1 tvg-id="Be Mad" tvg-name="ES: BE MAD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png" group-title="ESPAÑA CINEMA",ES: BE MAD SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/115
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/115
 #EXTINF:-1 tvg-id="Be Mad" tvg-name="ES: BE MAD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png" group-title="ESPAÑA CINEMA",ES: BE MAD HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/72
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/72
 #EXTINF:-1 tvg-id="Be Mad" tvg-name="ES: BE MAD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png" group-title="ESPAÑA CINEMA",ES: BE MAD FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295538
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295538
 #EXTINF:-1 tvg-id="TV Galicia ES" tvg-name="ES: TV GALICIA SD" tvg-logo="https://i.ibb.co/K9XSmFT/falicia.jpg" group-title="ESPAÑA TDT",ES: TV GALICIA SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391160
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391160
 #EXTINF:-1 tvg-id="Canal Extremadura ES" tvg-name="ES: CANAL EXTREMADURA SD" tvg-logo="https://i.ibb.co/Zm0Mp1s/EXTREMADURA.png" group-title="ESPAÑA TDT",ES: CANAL EXTREMADURA SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391162
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391162
 #EXTINF:-1 tvg-id="Canal Extremadura ES" tvg-name="ES: XTRM SD" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/8989f340b07cdbdce442bb0a6d6cd9c6_nuevo%20xtrm.png" group-title="ESPAÑA CINEMA",ES: XTRM SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294454
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294454
 #EXTINF:-1 tvg-id="Canal Extremadura ES" tvg-name="ES: XTRM HD" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/8989f340b07cdbdce442bb0a6d6cd9c6_nuevo%20xtrm.png" group-title="ESPAÑA CINEMA",ES: XTRM HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/2489
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/2489
 #EXTINF:-1 tvg-id="Canal Extremadura ES" tvg-name="ES: XTRM FHD" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/8989f340b07cdbdce442bb0a6d6cd9c6_nuevo%20xtrm.png" group-title="ESPAÑA CINEMA",ES: XTRM FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295100
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295100
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ CINE SD" tvg-logo="https://i.ibb.co/qBZCf1q/download-1.jpg" group-title="ESPAÑA CINEMA",ES: M+ CINE SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781318
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781318
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ CINE HD" tvg-logo="https://i.ibb.co/qBZCf1q/download-1.jpg" group-title="ESPAÑA CINEMA",ES: M+ CINE HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781317
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781317
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ CINE FHD" tvg-logo="https://i.ibb.co/qBZCf1q/download-1.jpg" group-title="ESPAÑA CINEMA",ES: M+ CINE FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781316
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781316
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR M+ SD" tvg-logo="https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg" group-title="ESPAÑA CINEMA",ES: MOVISTAR M+ SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781502
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781502
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR M+ HD" tvg-logo="https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg" group-title="ESPAÑA CINEMA",ES: MOVISTAR M+ HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781501
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781501
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR M+ FHD" tvg-logo="https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg" group-title="ESPAÑA CINEMA",ES: MOVISTAR M+ FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781500
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781500
 #EXTINF:-1 tvg-id="" tvg-name="ES: INDIE SD" tvg-logo="https://i.ibb.co/v3vrp5g/download.png" group-title="ESPAÑA CINEMA",ES: INDIE SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781461
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781461
 #EXTINF:-1 tvg-id="" tvg-name="ES: INDIE HD" tvg-logo="https://i.ibb.co/v3vrp5g/download.png" group-title="ESPAÑA CINEMA",ES: INDIE HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781460
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781460
 #EXTINF:-1 tvg-id="" tvg-name="ES: INDIE FHD" tvg-logo="https://i.ibb.co/v3vrp5g/download.png" group-title="ESPAÑA CINEMA",ES: INDIE FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781459
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781459
 #EXTINF:-1 tvg-id="" tvg-name="ES: SUSPENSE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/640px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA CINEMA",ES: SUSPENSE SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781458
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781458
 #EXTINF:-1 tvg-id="" tvg-name="ES: SUSPENSE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/640px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA CINEMA",ES: SUSPENSE HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781457
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781457
 #EXTINF:-1 tvg-id="" tvg-name="ES: SUSPENSE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/640px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA CINEMA",ES: SUSPENSE FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781456
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781456
 #EXTINF:-1 tvg-id="" tvg-name="ES: VACACIONES SD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/11/1_0_1_749D_41C_1_C00000_0_0_0-1.png" group-title="ESPAÑA CINEMA",ES: VACACIONES SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/780938
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/780938
 #EXTINF:-1 tvg-id="" tvg-name="ES: VACACIONES HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/11/1_0_1_749D_41C_1_C00000_0_0_0-1.png" group-title="ESPAÑA CINEMA",ES: VACACIONES HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/780939
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/780939
 #EXTINF:-1 tvg-id="" tvg-name="ES: VACACIONES FHD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/11/1_0_1_749D_41C_1_C00000_0_0_0-1.png" group-title="ESPAÑA CINEMA",ES: VACACIONES FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/780940
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/780940
 #EXTINF:-1 tvg-id="" tvg-name="ES: WARNER BROS TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Warner_Bros_Television_Studios.svg/1200px-Warner_Bros_Television_Studios.svg.png" group-title="ESPAÑA CINEMA",ES: WARNER BROS TV SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/717078
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/717078
 #EXTINF:-1 tvg-id="" tvg-name="ES: WARNER BROS TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Warner_Bros_Television_Studios.svg/1200px-Warner_Bros_Television_Studios.svg.png" group-title="ESPAÑA CINEMA",ES: WARNER BROS TV HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/717077
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/717077
 #EXTINF:-1 tvg-id="" tvg-name="ES: WARNER BROS TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Warner_Bros_Television_Studios.svg/1200px-Warner_Bros_Television_Studios.svg.png" group-title="ESPAÑA CINEMA",ES: WARNER BROS TV FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/717076
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/717076
 #EXTINF:-1 tvg-id="TCM ES" tvg-name="ES: TCM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="ESPAÑA CINEMA",ES: TCM SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294451
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294451
 #EXTINF:-1 tvg-id="TCM ES" tvg-name="ES: TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="ESPAÑA CINEMA",ES: TCM HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/100
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/100
 #EXTINF:-1 tvg-id="TCM ES" tvg-name="ES: TCM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="ESPAÑA CINEMA",ES: TCM FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295099
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295099
 #EXTINF:-1 tvg-id="SYFY ES" tvg-name="ES: SYFY SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/SCI-FI" group-title="ESPAÑA CINEMA",ES: SYFY SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/28
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/28
 #EXTINF:-1 tvg-id="SYFY ES" tvg-name="ES: SYFY HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/SCI-FI" group-title="ESPAÑA CINEMA",ES: SYFY HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/57
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/57
 #EXTINF:-1 tvg-id="SYFY ES" tvg-name="ES: SYFY FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/SCI-FI" group-title="ESPAÑA CINEMA",ES: SYFY FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295098
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295098
 #EXTINF:-1 tvg-id="Sundance ES" tvg-name="ES: SUNDANCE SD" tvg-logo="https://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" group-title="ESPAÑA CINEMA",ES: SUNDANCE SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/2479
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/2479
 #EXTINF:-1 tvg-id="Sundance ES" tvg-name="ES: SUNDANCE HD" tvg-logo="https://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" group-title="ESPAÑA CINEMA",ES: SUNDANCE HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/150641
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/150641
 #EXTINF:-1 tvg-id="Sundance ES" tvg-name="ES: SUNDANCE FHD" tvg-logo="https://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" group-title="ESPAÑA CINEMA",ES: SUNDANCE FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295095
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295095
 #EXTINF:-1 tvg-id="Somos" tvg-name="ES: SOMOS SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/SOMOS" group-title="ESPAÑA CINEMA",ES: SOMOS SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295548
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295548
 #EXTINF:-1 tvg-id="Somos" tvg-name="ES: SOMOS HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/SOMOS" group-title="ESPAÑA CINEMA",ES: SOMOS HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/2488
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/2488
 #EXTINF:-1 tvg-id="Somos" tvg-name="ES: SOMOS FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/SOMOS" group-title="ESPAÑA CINEMA",ES: SOMOS FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295547
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295547
 #EXTINF:-1 tvg-id="Paramount Network" tvg-name="ES: PARAMOUNT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/800px-Paramount_Channel.svg.png" group-title="ESPAÑA CINEMA",ES: PARAMOUNT SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/27
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/27
 #EXTINF:-1 tvg-id="Paramount Network" tvg-name="ES: PARAMOUNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/800px-Paramount_Channel.svg.png" group-title="ESPAÑA CINEMA",ES: PARAMOUNT HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294455
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294455
 #EXTINF:-1 tvg-id="Paramount Network" tvg-name="ES: PARAMOUNT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/800px-Paramount_Channel.svg.png" group-title="ESPAÑA CINEMA",ES: PARAMOUNT FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391137
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391137
 #EXTINF:-1 tvg-id="13 TV ES" tvg-name="ES: M+ TRECE SD" tvg-logo="https://seeklogo.com/images/C/canal-trece-colombia-logo-4378208A33-seeklogo.com.png" group-title="ESPAÑA CINEMA",ES: M+ TRECE SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315445
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315445
 #EXTINF:-1 tvg-id="13 TV ES" tvg-name="ES: M+ TRECE HD" tvg-logo="https://seeklogo.com/images/C/canal-trece-colombia-logo-4378208A33-seeklogo.com.png" group-title="ESPAÑA CINEMA",ES: M+ TRECE HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315444
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315444
 #EXTINF:-1 tvg-id="13 TV ES" tvg-name="ES: M+ TRECE FHD" tvg-logo="https://seeklogo.com/images/C/canal-trece-colombia-logo-4378208A33-seeklogo.com.png" group-title="ESPAÑA CINEMA",ES: M+ TRECE FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391124
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391124
 #EXTINF:-1 tvg-id="Movistar Series ES" tvg-name="ES: M+ SERIES SD" tvg-logo="http://lara.plumetech.xyz:8080/images/6fa5d780766cc734aaf236e6fd4ce885.png" group-title="ESPAÑA CINEMA",ES: M+ SERIES SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/33
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/33
 #EXTINF:-1 tvg-id="Movistar Series ES" tvg-name="ES: M+ SERIES HD" tvg-logo="http://edge.iptvland.nl:8080/images/6fa5d780766cc734aaf236e6fd4ce885.png" group-title="ESPAÑA CINEMA",ES: M+ SERIES HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391142
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391142
 #EXTINF:-1 tvg-id="Movistar Series ES" tvg-name="ES: M+ SERIES FHD" tvg-logo="http://edge.iptvland.nl:8080/images/6fa5d780766cc734aaf236e6fd4ce885.png" group-title="ESPAÑA CINEMA",ES: M+ SERIES FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295090
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295090
 #EXTINF:-1 tvg-id="La Resistencia 24H" tvg-name="ES: M+ LA RESISTENCIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png" group-title="ESPAÑA CINEMA",ES: M+ LA RESISTENCIA FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295102
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295102
 #EXTINF:-1 tvg-id="La Resistencia 24H" tvg-name="ES: M+ ES: RESISTENCIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png" group-title="ESPAÑA CINEMA",ES: M+ ES: RESISTENCIA HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294459
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294459
 #EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="ES: M+ DRAMA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="ESPAÑA CINEMA",ES: M+ DRAMA SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294443
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294443
 #EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="ES: M+ DRAMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="ESPAÑA CINEMA",ES: M+ DRAMA HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391141
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391141
 #EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="ES: M+ DRAMA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="ESPAÑA CINEMA",ES: M+ DRAMA FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295086
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295086
 #EXTINF:-1 tvg-id="Movistar Cine Espanol ES" tvg-name="ES: M+ DCINE ESPANOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1529px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="ESPAÑA CINEMA",ES: M+ DCINE ESPANOL HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294445
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294445
 #EXTINF:-1 tvg-id="Movistar Comedia ES" tvg-name="ES: M+ COMEDIA SD" tvg-logo="https://i.ibb.co/5cgMFFr/Movistar-Comedia.png" group-title="ESPAÑA CINEMA",ES: M+ COMEDIA SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294442
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294442
 #EXTINF:-1 tvg-id="Movistar Cine Espanol ES" tvg-name="ES: M+ CINE ESPANOL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1529px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="ESPAÑA CINEMA",ES: M+ CINE ESPANOL FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295089
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295089
 #EXTINF:-1 tvg-id="Movistar Accion ES" tvg-name="ES: M+ ACCION SD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-accion.jpg.pagespeed.ic.XAU9P3nHew.jpg" group-title="ESPAÑA CINEMA",ES: M+ ACCION SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294444
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294444
 #EXTINF:-1 tvg-id="Movistar Accion ES" tvg-name="ES: M+ ACCION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png" group-title="ESPAÑA CINEMA",ES: M+ ACCION FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295087
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295087
 #EXTINF:-1 tvg-id="Movistar Comedia ES" tvg-name="ES: M.COMEDIA HD" tvg-logo="https://i.ibb.co/5cgMFFr/Movistar-Comedia.png" group-title="ESPAÑA CINEMA",ES: M.COMEDIA HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/11
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/11
 #EXTINF:-1 tvg-id="La Resistencia 24H" tvg-name="ES: LA RESISTENCIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png" group-title="ESPAÑA CINEMA",ES: LA RESISTENCIA SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/200989
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/200989
 #EXTINF:-1 tvg-id="Hollywood ES" tvg-name="ES: HOLLYWOOD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="ESPAÑA CINEMA",ES: HOLLYWOOD SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294440
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294440
 #EXTINF:-1 tvg-id="Hollywood ES" tvg-name="ES: HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="ESPAÑA CINEMA",ES: HOLLYWOOD HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/104
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/104
 #EXTINF:-1 tvg-id="Hollywood ES" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="ESPAÑA CINEMA",ES: HOLLYWOOD FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295081
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295081
 #EXTINF:-1 tvg-id="FOX ES" tvg-name="ES: FOX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="ESPAÑA CINEMA",ES: FOX SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294449
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294449
 #EXTINF:-1 tvg-id="FOX ES" tvg-name="ES: FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="ESPAÑA CINEMA",ES: FOX HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/2458
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/2458
 #EXTINF:-1 tvg-id="FOX ES" tvg-name="ES: FOX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="ESPAÑA CINEMA",ES: FOX FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295093
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295093
 #EXTINF:-1 tvg-id="Movistar Cine Espanol ES" tvg-name="ES: DCINE ESPANOL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1529px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="ESPAÑA CINEMA",ES: DCINE ESPANOL SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/46
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/46
 #EXTINF:-1 tvg-id="DARK" tvg-name="ES: DARK SD" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/89239d953fe6b904607d03a8fe678450_c-dark.svg.png" group-title="ESPAÑA CINEMA",ES: DARK SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294448
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294448
 #EXTINF:-1 tvg-id="DARK" tvg-name="ES: DARK HD" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/89239d953fe6b904607d03a8fe678450_c-dark.svg.png" group-title="ESPAÑA CINEMA",ES: DARK HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/179142
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/179142
 #EXTINF:-1 tvg-id="DARK" tvg-name="ES: DARK FHD" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/89239d953fe6b904607d03a8fe678450_c-dark.svg.png" group-title="ESPAÑA CINEMA",ES: DARK FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391119
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391119
 #EXTINF:-1 tvg-id="Cosmo HD" tvg-name="ES: COSMO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" group-title="ESPAÑA CINEMA",ES: COSMO SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/43
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/43
 #EXTINF:-1 tvg-id="Cosmo HD" tvg-name="ES: COSMO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" group-title="ESPAÑA CINEMA",ES: COSMO HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/84
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/84
 #EXTINF:-1 tvg-id="Cosmo HD" tvg-name="ES: COSMO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" group-title="ESPAÑA CINEMA",ES: COSMO FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295097
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295097
 #EXTINF:-1 tvg-id="Comedy Central ES" tvg-name="ES: COMEDY CENTRAL SD" tvg-logo="https://larepublica.pe/resizer/eeinkU0xbmusHWuP0tkiuzfgre4=/1250x735/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/EMTMFTQTFFA6BHTYMGPFYKOUPY.jpg" group-title="ESPAÑA CINEMA",ES: COMEDY CENTRAL SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/42
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/42
 #EXTINF:-1 tvg-id="Comedy Central ES" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="https://larepublica.pe/resizer/eeinkU0xbmusHWuP0tkiuzfgre4=/1250x735/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/EMTMFTQTFFA6BHTYMGPFYKOUPY.jpg" group-title="ESPAÑA CINEMA",ES: COMEDY CENTRAL HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/83
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/83
 #EXTINF:-1 tvg-id="Comedy Central ES" tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="https://larepublica.pe/resizer/eeinkU0xbmusHWuP0tkiuzfgre4=/1250x735/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/EMTMFTQTFFA6BHTYMGPFYKOUPY.jpg" group-title="ESPAÑA CINEMA",ES: COMEDY CENTRAL FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295085
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295085
 #EXTINF:-1 tvg-id="" tvg-name="ES: CLASSIC MANIA 2 FHD" tvg-logo="https://i.ibb.co/XFtJ9wh/Classic-Mania-logo-01-300x300.png" group-title="ESPAÑA CINEMA",ES: CLASSIC MANIA 2 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572958
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572958
 #EXTINF:-1 tvg-id="" tvg-name="ES: CLASSIC MANIA 1 FHD" tvg-logo="https://i.ibb.co/XFtJ9wh/Classic-Mania-logo-01-300x300.png" group-title="ESPAÑA CINEMA",ES: CLASSIC MANIA 1 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572957
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572957
 #EXTINF:-1 tvg-id="Classica ES" tvg-name="ES: CLASICOS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA CINEMA",ES: CLASICOS SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391165
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391165
 #EXTINF:-1 tvg-id="Classica ES" tvg-name="ES: CLASICOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA CINEMA",ES: CLASICOS HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/212404
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/212404
 #EXTINF:-1 tvg-id="Classica ES" tvg-name="ES: CLASICOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA CINEMA",ES: CLASICOS FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391139
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391139
 #EXTINF:-1 tvg-id="Calle 13 ES" tvg-name="ES: CALLE 13 SD" tvg-logo="http://lara.plumetech.xyz:8080/images/3874299b62942bdc2b4151fc75c24e26.png" group-title="ESPAÑA CINEMA",ES: CALLE 13 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/12
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/12
 #EXTINF:-1 tvg-id="Calle 13 ES" tvg-name="ES: CALLE 13 HD" tvg-logo="http://lara.plumetech.xyz:8080/images/032cf13dc0db83c3634044a453a0395f.png" group-title="ESPAÑA CINEMA",ES: CALLE 13 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/36
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/36
 #EXTINF:-1 tvg-id="Calle 13 ES" tvg-name="ES: CALLE 13 FHD" tvg-logo="http://lara.plumetech.xyz:8080/images/032cf13dc0db83c3634044a453a0395f.png" group-title="ESPAÑA CINEMA",ES: CALLE 13 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295094
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295094
 #EXTINF:-1 tvg-id="Movistar Accion ES" tvg-name="ES: C+ ACCION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png" group-title="ESPAÑA CINEMA",ES: C+ ACCION HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/7
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/7
 #EXTINF:-1 tvg-id="AXN White ES" tvg-name="ES: AXN MOVIES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="ESPAÑA CINEMA",ES: AXN MOVIES SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/3
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/3
 #EXTINF:-1 tvg-id="AXN White ES" tvg-name="ES: AXN MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="ESPAÑA CINEMA",ES: AXN MOVIES HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/89
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/89
 #EXTINF:-1 tvg-id="AXN White ES" tvg-name="ES: AXN MOVIES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="ESPAÑA CINEMA",ES: AXN MOVIES FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295103
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295103
 #EXTINF:-1 tvg-id="AXN ES" tvg-name="ES: AXN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="ESPAÑA CINEMA",ES: AXN SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294450
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294450
 #EXTINF:-1 tvg-id="AXN ES" tvg-name="ES: AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="ESPAÑA CINEMA",ES: AXN HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/82
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/82
 #EXTINF:-1 tvg-id="AXN ES" tvg-name="ES: AXN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="ESPAÑA CINEMA",ES: AXN FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295088
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295088
 #EXTINF:-1 tvg-id="Aragon TV ES" tvg-name="ES: Aragon TV SD" tvg-logo="http://lara.plumetech.xyz:8080/images/1c4522ecd54b26638c0295d13dd83c1e.png" group-title="ESPAÑA CINEMA",ES: Aragon TV SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/1665
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/1665
 #EXTINF:-1 tvg-id="AMC ES" tvg-name="ES: AMC SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/AMC" group-title="ESPAÑA CINEMA",ES: AMC SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/31
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/31
 #EXTINF:-1 tvg-id="AMC ES" tvg-name="ES: AMC HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/AMC" group-title="ESPAÑA CINEMA",ES: AMC HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/81
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/81
 #EXTINF:-1 tvg-id="AMC ES" tvg-name="ES: AMC FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/AMC" group-title="ESPAÑA CINEMA",ES: AMC FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295092
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295092
 #EXTINF:-1 tvg-id="AMC ES" tvg-name="ES: AMC CRIME SD" tvg-logo="https://i.ibb.co/DYr8M1K/amc-crime-us.png" group-title="ESPAÑA CINEMA",ES: AMC CRIME SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315434
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315434
 #EXTINF:-1 tvg-id="AMC ES" tvg-name="ES: AMC CRIME HD" tvg-logo="https://i.ibb.co/DYr8M1K/amc-crime-us.png" group-title="ESPAÑA CINEMA",ES: AMC CRIME HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315435
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315435
 #EXTINF:-1 tvg-id="AMC ES" tvg-name="ES: AMC CRIME FHD" tvg-logo="https://i.ibb.co/DYr8M1K/amc-crime-us.png" group-title="ESPAÑA CINEMA",ES: AMC CRIME FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391134
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391134
 #EXTINF:-1 tvg-id="atreseries.es" tvg-name="ES: A3 SERIES SD" tvg-logo="https://mma.prnewswire.com/media/323322/1498622_logo_atreseries_Logo.jpg" group-title="ESPAÑA CINEMA",ES: A3 SERIES SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294447
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294447
 #EXTINF:-1 tvg-id="atreseries.es" tvg-name="ES: A3 SERIES HD" tvg-logo="https://mma.prnewswire.com/media/323322/1498622_logo_atreseries_Logo.jpg" group-title="ESPAÑA CINEMA",ES: A3 SERIES HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/2459
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/2459
 #EXTINF:-1 tvg-id="Ten" tvg-name="ES: TEN SD" tvg-logo="http://edge.iptvland.nl:8080/images/6d26dd785a4cf1b001ebbca03f0d92e0.png" group-title="ESPAÑA TDT",ES: TEN SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/74
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/74
 #EXTINF:-1 tvg-id="Nova ES" tvg-name="ES: NOVA SD" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/9E408606-58A2-46D1-BCC8-BDE2FD5FAD78//720x540.jpg" group-title="ESPAÑA TDT",ES: NOVA SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/26
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/26
 #EXTINF:-1 tvg-id="Nova ES" tvg-name="ES: NOVA HD" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/9E408606-58A2-46D1-BCC8-BDE2FD5FAD78//720x540.jpg" group-title="ESPAÑA TDT",ES: NOVA HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/150631
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/150631
 #EXTINF:-1 tvg-id="Nova ES" tvg-name="ES: NOVA FHD" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/9E408606-58A2-46D1-BCC8-BDE2FD5FAD78//720x540.jpg" group-title="ESPAÑA TDT",ES: NOVA FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391120
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391120
 #EXTINF:-1 tvg-id="Neox ES" tvg-name="ES: NEOX SD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Neox-en-directo-Online.png" group-title="ESPAÑA TDT",ES: NEOX SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/64
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/64
 #EXTINF:-1 tvg-id="Neox ES" tvg-name="ES: NEOX HD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Neox-en-directo-Online.png" group-title="ESPAÑA TDT",ES: NEOX HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294456
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294456
 #EXTINF:-1 tvg-id="Neox ES" tvg-name="ES: NEOX FHD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Neox-en-directo-Online.png" group-title="ESPAÑA TDT",ES: NEOX FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391136
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391136
 #EXTINF:-1 tvg-id="Mega" tvg-name="ES: MEGA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/800px-Mega_Chile_2020.png" group-title="ESPAÑA DOCUMENTALES",ES: MEGA SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/65
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/65
 #EXTINF:-1 tvg-id="Mega" tvg-name="ES: MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/800px-Mega_Chile_2020.png" group-title="ESPAÑA DOCUMENTALES",ES: MEGA HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295536
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295536
 #EXTINF:-1 tvg-id="Mega" tvg-name="ES: MEGA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/800px-Mega_Chile_2020.png" group-title="ESPAÑA DOCUMENTALES",ES: MEGA FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295537
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295537
 #EXTINF:-1 tvg-id="FDF ES" tvg-name="ES: FDF SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="ESPAÑA TDT",ES: FDF SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/50
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/50
 #EXTINF:-1 tvg-id="FDF ES" tvg-name="ES: FDF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="ESPAÑA TDT",ES: FDF HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294453
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294453
 #EXTINF:-1 tvg-id="FDF ES" tvg-name="ES: FDF FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="ESPAÑA TDT",ES: FDF FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391125
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391125
 #EXTINF:-1 tvg-id="Energy ES" tvg-name="ES: ENERGY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png" group-title="ESPAÑA TDT",ES: ENERGY SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/20
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/20
 #EXTINF:-1 tvg-id="Energy ES" tvg-name="ES: ENERGY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png" group-title="ESPAÑA TDT",ES: ENERGY HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294452
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294452
 #EXTINF:-1 tvg-id="Energy ES" tvg-name="ES: ENERGY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png" group-title="ESPAÑA TDT",ES: ENERGY FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391133
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391133
 #EXTINF:-1 tvg-id="DMAX" tvg-name="ES: DMAX" tvg-logo="http://edge.iptvland.nl:8080/images/761a1c94897fdd8023871edfeccbaab8.png" group-title="ESPAÑA TDT",ES: DMAX
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/66
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/66
 #EXTINF:-1 tvg-id="Divinity" tvg-name="ES: DIVINITY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1200px-Divinity.svg.png" group-title="ESPAÑA TDT",ES: DIVINITY SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/19
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/19
 #EXTINF:-1 tvg-id="Divinity" tvg-name="ES: DIVINITY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1200px-Divinity.svg.png" group-title="ESPAÑA TDT",ES: DIVINITY HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294457
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/294457
 #EXTINF:-1 tvg-id="Divinity" tvg-name="ES: DIVINITY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1200px-Divinity.svg.png" group-title="ESPAÑA TDT",ES: DIVINITY FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391135
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391135
 #EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX CINE + HD" tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png" group-title="NETFLIX 24H",ES | NETFLIX CINE + HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/535788
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/535788
 #EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX CINE HD" tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png" group-title="NETFLIX 24H",ES | NETFLIX CINE HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/535787
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/535787
 #EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX DRAMA HD" tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png" group-title="NETFLIX 24H",ES | NETFLIX DRAMA HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/535794
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/535794
 #EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX Español HD" tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png" group-title="NETFLIX 24H",ES | NETFLIX Español HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/535790
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/535790
 #EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX Historia HD" tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png" group-title="NETFLIX 24H",ES | NETFLIX Historia HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/535792
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/535792
 #EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX Ninos HD" tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png" group-title="NETFLIX 24H",ES | NETFLIX Ninos HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/535795
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/535795
 #EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX Películas HD" tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png" group-title="NETFLIX 24H",ES | NETFLIX Películas HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/535789
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/535789
 #EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX Sci-Fi HD" tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png" group-title="NETFLIX 24H",ES | NETFLIX Sci-Fi HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/535793
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/535793
 #EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX Television HD" tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png" group-title="NETFLIX 24H",ES | NETFLIX Television HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/535791
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/535791
 #EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 1" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tq2hd.png" group-title="ESPAÑA  ALQUILER",ES: ALQUILER 1
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/553567
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/553567
 #EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 2" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tq2hd.png" group-title="ESPAÑA  ALQUILER",ES: ALQUILER 2
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/553568
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/553568
 #EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 3" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tq2hd.png" group-title="ESPAÑA  ALQUILER",ES: ALQUILER 3
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/553569
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/553569
 #EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 4" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tq2hd.png" group-title="ESPAÑA  ALQUILER",ES: ALQUILER 4
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/553570
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/553570
 #EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 5" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tq2hd.png" group-title="ESPAÑA  ALQUILER",ES: ALQUILER 5
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/553571
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/553571
 #EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 6" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tq2hd.png" group-title="ESPAÑA  ALQUILER",ES: ALQUILER 6
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/553572
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/553572
 #EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 7" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tq2hd.png" group-title="ESPAÑA  ALQUILER",ES: ALQUILER 7
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/553573
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/553573
 #EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 8" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tq2hd.png" group-title="ESPAÑA  ALQUILER",ES: ALQUILER 8
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/553574
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/553574
 #EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 9" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tq2hd.png" group-title="ESPAÑA  ALQUILER",ES: ALQUILER 9
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/553575
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/553575
 #EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 10" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tq2hd.png" group-title="ESPAÑA  ALQUILER",ES: ALQUILER 10
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/553576
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/553576
 #EXTINF:-1 tvg-id="Teledeporte" tvg-name="ES: TELEDEPORTE SD" tvg-logo="http://www.automobilsport.com/uploads/_neustart20/4april-2017/Teledeporte_logo.jpg" group-title="ESPAÑA DEPORTES",ES: TELEDEPORTE SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295209
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295209
 #EXTINF:-1 tvg-id="Teledeporte" tvg-name="ES: TELEDEPORTE HD" tvg-logo="http://www.automobilsport.com/uploads/_neustart20/4april-2017/Teledeporte_logo.jpg" group-title="ESPAÑA DEPORTES",ES: TELEDEPORTE HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295210
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295210
 #EXTINF:-1 tvg-id="Teledeporte" tvg-name="ES: TELEDEPORTE FHD" tvg-logo="http://www.automobilsport.com/uploads/_neustart20/4april-2017/Teledeporte_logo.jpg" group-title="ESPAÑA DEPORTES",ES: TELEDEPORTE FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295211
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295211
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="ES: REAL MADRID TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1200px-Logo_Real_Madrid.svg.png" group-title="ESPAÑA DEPORTES",ES: REAL MADRID TV SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572979
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572979
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="ES: REAL MADRID TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1200px-Logo_Real_Madrid.svg.png" group-title="ESPAÑA DEPORTES",ES: REAL MADRID TV HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/436557
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/436557
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="ES: REAL MADRID TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1200px-Logo_Real_Madrid.svg.png" group-title="ESPAÑA DEPORTES",ES: REAL MADRID TV FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572978
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572978
 #EXTINF:-1 tvg-id="M+ #Vamos HD" tvg-name="ES: M+ VAMOS SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/VAMOSD" group-title="ESPAÑA DEPORTES",ES: M+ VAMOS SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295176
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295176
 #EXTINF:-1 tvg-id="M+ #Vamos HD" tvg-name="ES: M+ VAMOS HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/VAMOSD" group-title="ESPAÑA DEPORTES",ES: M+ VAMOS HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295177
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295177
 #EXTINF:-1 tvg-id="M+ #Vamos HD" tvg-name="ES: M+ VAMOS FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/VAMOSD" group-title="ESPAÑA DEPORTES",ES: M+ VAMOS FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295178
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295178
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="ES: M+ LIGA DE CAMPEONES SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="ESPAÑA DEPORTES",ES: M+ LIGA DE CAMPEONES SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564214
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564214
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="ES: M+ LIGA DE CAMPEONES HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="ESPAÑA DEPORTES",ES: M+ LIGA DE CAMPEONES HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564213
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564213
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="ES: M+ LIGA DE CAMPEONES FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="ESPAÑA DEPORTES",ES: M+ LIGA DE CAMPEONES FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564212
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564212
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="ES: M+ LIGA DE CAMPEONES 2 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="ESPAÑA DEPORTES",ES: M+ LIGA DE CAMPEONES 2 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564217
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564217
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="ES: M+ LIGA DE CAMPEONES 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="ESPAÑA DEPORTES",ES: M+ LIGA DE CAMPEONES 2 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564216
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564216
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="ES: M+ LIGA DE CAMPEONES 2 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="ESPAÑA DEPORTES",ES: M+ LIGA DE CAMPEONES 2 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564215
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564215
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="ES: M+ LIGA DE CAMPEONES 3 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="ESPAÑA DEPORTES",ES: M+ LIGA DE CAMPEONES 3 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/517036
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/517036
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="ES: M+ LIGA DE CAMPEONES 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="ESPAÑA DEPORTES",ES: M+ LIGA DE CAMPEONES 3 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/517035
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/517035
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="ES: M+ LIGA DE CAMPEONES 3 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="ESPAÑA DEPORTES",ES: M+ LIGA DE CAMPEONES 3 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/517034
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/517034
 #EXTINF:-1 tvg-id="M+ LaLigaTV HD" tvg-name="ES: M+ LA LIGA SD" tvg-logo="https://www.vhv.rs/dpng/d/474-4747008_download-logo-laliga-spain-football-svg-eps-png.png" group-title="ESPAÑA DEPORTES",ES: M+ LA LIGA SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564211
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564211
 #EXTINF:-1 tvg-id="M+ LaLigaTV HD" tvg-name="ES: M+ LA LIGA HD" tvg-logo="https://www.vhv.rs/dpng/d/474-4747008_download-logo-laliga-spain-football-svg-eps-png.png" group-title="ESPAÑA DEPORTES",ES: M+ LA LIGA HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564210
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564210
 #EXTINF:-1 tvg-id="M+ LaLigaTV HD" tvg-name="ES: M+ LA LIGA FHD" tvg-logo="https://www.vhv.rs/dpng/d/474-4747008_download-logo-laliga-spain-football-svg-eps-png.png" group-title="ESPAÑA DEPORTES",ES: M+ LA LIGA FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564209
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564209
 #EXTINF:-1 tvg-id="M+ LaLigaTV 2 HD" tvg-name="ES: M+ LA LIGA 2 SD" tvg-logo="https://www.vhv.rs/dpng/d/474-4747008_download-logo-laliga-spain-football-svg-eps-png.png" group-title="ESPAÑA DEPORTES",ES: M+ LA LIGA 2 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413758
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413758
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ LA LIGA 2 HD" tvg-logo="https://www.vhv.rs/dpng/d/474-4747008_download-logo-laliga-spain-football-svg-eps-png.png" group-title="ESPAÑA DEPORTES",ES: M+ LA LIGA 2 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413756
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413756
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ LA LIGA 2 FHD" tvg-logo="https://www.vhv.rs/dpng/d/474-4747008_download-logo-laliga-spain-football-svg-eps-png.png" group-title="ESPAÑA DEPORTES",ES: M+ LA LIGA 2 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413740
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413740
 #EXTINF:-1 tvg-id="M+ LaLigaTV 3 HD" tvg-name="ES: M+ LA LIGA 3 SD" tvg-logo="https://www.vhv.rs/dpng/d/474-4747008_download-logo-laliga-spain-football-svg-eps-png.png" group-title="ESPAÑA DEPORTES",ES: M+ LA LIGA 3 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413759
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413759
 #EXTINF:-1 tvg-id="M+ LaLigaTV 3 HD" tvg-name="ES: M+ LA LIGA 3 HD" tvg-logo="https://www.vhv.rs/dpng/d/474-4747008_download-logo-laliga-spain-football-svg-eps-png.png" group-title="ESPAÑA DEPORTES",ES: M+ LA LIGA 3 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413757
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413757
 #EXTINF:-1 tvg-id="M+ LaLigaTV 3 HD" tvg-name="ES: M+ LA LIGA 3 FHD" tvg-logo="https://www.vhv.rs/dpng/d/474-4747008_download-logo-laliga-spain-football-svg-eps-png.png" group-title="ESPAÑA DEPORTES",ES: M+ LA LIGA 3 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413741
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413741
 #EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES: M+ GOLF SD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a368.png" group-title="ESPAÑA DEPORTES",ES: M+ GOLF SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295206
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295206
 #EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES: M+ GOLF HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a368.png" group-title="ESPAÑA DEPORTES",ES: M+ GOLF HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295207
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295207
 #EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES: M+ GOLF FHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a368.png" group-title="ESPAÑA DEPORTES",ES: M+ GOLF FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295208
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295208
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOLF 2 SD" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg" group-title="ESPAÑA DEPORTES",ES: M+ GOLF 2 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/780932
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/780932
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOLF 2 HD" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg" group-title="ESPAÑA DEPORTES",ES: M+ GOLF 2 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/780933
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/780933
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOLF 2 FHD" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg" group-title="ESPAÑA DEPORTES",ES: M+ GOLF 2 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/780934
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/780934
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="ES: M+ DEPORTES SD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ESPAÑA DEPORTES",ES: M+ DEPORTES SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295185
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295185
 #EXTINF:-1 tvg-id="Multideporte" tvg-name="ES: M+ DEPORTES HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ESPAÑA DEPORTES",ES: M+ DEPORTES HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295186
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295186
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="ES: M+ DEPORTES FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ESPAÑA DEPORTES",ES: M+ DEPORTES FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295187
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295187
 #EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="ES: M+ DEPORTES 7 SD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ESPAÑA DEPORTES",ES: M+ DEPORTES 7 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413803
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413803
 #EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="ES: M+ DEPORTES 7 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ESPAÑA DEPORTES",ES: M+ DEPORTES 7 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413797
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413797
 #EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="ES: M+ DEPORTES 7 FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ESPAÑA DEPORTES",ES: M+ DEPORTES 7 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413791
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413791
 #EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="ES: M+ DEPORTES 6 SD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ESPAÑA DEPORTES",ES: M+ DEPORTES 6 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413802
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413802
 #EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="ES: M+ DEPORTES 6 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ESPAÑA DEPORTES",ES: M+ DEPORTES 6 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413796
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413796
 #EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="ES: M+ DEPORTES 6 FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ESPAÑA DEPORTES",ES: M+ DEPORTES 6 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413790
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413790
 #EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="ES: M+ DEPORTES 5 SD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ESPAÑA DEPORTES",ES: M+ DEPORTES 5 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413801
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413801
 #EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="ES: M+ DEPORTES 5 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ESPAÑA DEPORTES",ES: M+ DEPORTES 5 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413795
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413795
 #EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="ES: M+ DEPORTES 5 FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ESPAÑA DEPORTES",ES: M+ DEPORTES 5 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413789
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413789
 #EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="ES: M+ DEPORTES 4 SD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ESPAÑA DEPORTES",ES: M+ DEPORTES 4 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413800
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413800
 #EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="ES: M+ DEPORTES 4 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ESPAÑA DEPORTES",ES: M+ DEPORTES 4 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413794
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413794
 #EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="ES: M+ DEPORTES 4 FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ESPAÑA DEPORTES",ES: M+ DEPORTES 4 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413788
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413788
 #EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="ES: M+ DEPORTES 3 SD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ESPAÑA DEPORTES",ES: M+ DEPORTES 3 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413799
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413799
 #EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="ES: M+ DEPORTES 3 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ESPAÑA DEPORTES",ES: M+ DEPORTES 3 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413793
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413793
 #EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="ES: M+ DEPORTES 3 FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ESPAÑA DEPORTES",ES: M+ DEPORTES 3 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413787
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413787
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="ES: M+ DEPORTES 2 SD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ESPAÑA DEPORTES",ES: M+ DEPORTES 2 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413798
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413798
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="ES: M+ DEPORTES 2 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ESPAÑA DEPORTES",ES: M+ DEPORTES 2 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413792
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413792
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="ES: M+ DEPORTES 2 FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ESPAÑA DEPORTES",ES: M+ DEPORTES 2 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413786
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413786
 #EXTINF:-1 tvg-id="LaLigaTV Bar HD" tvg-name="ES: LA LIGA TV BAR HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F572%2Flaliga-tv-bar-2.png" group-title="ESPAÑA DEPORTES",ES: LA LIGA TV BAR HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/316981
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/316981
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV HD" tvg-name="ES: LA LIGA HYPERMOTION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="ESPAÑA DEPORTES",ES: LA LIGA HYPERMOTION SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/402708
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/402708
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV HD" tvg-name="ES: LA LIGA HYPERMOTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="ESPAÑA DEPORTES",ES: LA LIGA HYPERMOTION HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/402707
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/402707
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV HD" tvg-name="ES: LA LIGA HYPERMOTION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="ESPAÑA DEPORTES",ES: LA LIGA HYPERMOTION FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/402460
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/402460
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV M2 HD" tvg-name="ES: LA LIGA HYPERMOTION 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="ESPAÑA DEPORTES",ES: LA LIGA HYPERMOTION 2 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413760
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413760
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV M2 HD" tvg-name="ES: LA LIGA HYPERMOTION 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="ESPAÑA DEPORTES",ES: LA LIGA HYPERMOTION 2 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413754
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413754
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV M2 HD" tvg-name="ES: LA LIGA HYPERMOTION 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="ESPAÑA DEPORTES",ES: LA LIGA HYPERMOTION 2 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413738
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413738
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV M3 HD" tvg-name="ES: LA LIGA HYPERMOTION 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="ESPAÑA DEPORTES",ES: LA LIGA HYPERMOTION 3 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413761
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413761
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV M3 HD" tvg-name="ES: LA LIGA HYPERMOTION 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="ESPAÑA DEPORTES",ES: LA LIGA HYPERMOTION 3 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413755
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413755
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV M3 HD" tvg-name="ES: LA LIGA HYPERMOTION 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="ESPAÑA DEPORTES",ES: LA LIGA HYPERMOTION 3 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413739
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/413739
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="ES: EUROSPORT 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Eurosport_2_logo.svg/1200px-Eurosport_2_logo.svg.png" group-title="ESPAÑA DEPORTES",ES: EUROSPORT 2 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295182
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295182
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Eurosport_2_logo.svg/1200px-Eurosport_2_logo.svg.png" group-title="ESPAÑA DEPORTES",ES: EUROSPORT 2 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295183
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295183
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="ES: EUROSPORT 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Eurosport_2_logo.svg/1200px-Eurosport_2_logo.svg.png" group-title="ESPAÑA DEPORTES",ES: EUROSPORT 2 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295184
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295184
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="ES: EUROSPORT 1 SD" tvg-logo="https://img.favpng.com/23/7/23/eurosport-2-logo-television-eurosport-1-png-favpng-ZXsSYshmW1AkmYPY3NNR1Afqt.jpg" group-title="ESPAÑA DEPORTES",ES: EUROSPORT 1 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295179
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295179
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="https://img.favpng.com/23/7/23/eurosport-2-logo-television-eurosport-1-png-favpng-ZXsSYshmW1AkmYPY3NNR1Afqt.jpg" group-title="ESPAÑA DEPORTES",ES: EUROSPORT 1 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295180
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295180
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="ES: EUROSPORT 1 FHD" tvg-logo="https://img.favpng.com/23/7/23/eurosport-2-logo-television-eurosport-1-png-favpng-ZXsSYshmW1AkmYPY3NNR1Afqt.jpg" group-title="ESPAÑA DEPORTES",ES: EUROSPORT 1 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295181
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295181
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="ES: DAZN LA LIGA SD" tvg-logo="https://i.ibb.co/k2gT19L/download.png" group-title="ESPAÑA DEPORTES",ES: DAZN LA LIGA SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564220
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/564220
 #EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LA LIGA HD" tvg-logo="https://i.ibb.co/k2gT19L/download.png" group-title="ESPAÑA DEPORTES",ES: DAZN LA LIGA HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/592999
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/592999
 #EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LA LIGA FHD" tvg-logo="https://i.ibb.co/k2gT19L/download.png" group-title="ESPAÑA DEPORTES",ES: DAZN LA LIGA FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/593000
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/593000
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="ES: DAZN LA LIGA 2 SD" tvg-logo="https://i.ibb.co/k2gT19L/download.png" group-title="ESPAÑA DEPORTES",ES: DAZN LA LIGA 2 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/404179
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/404179
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="ES: DAZN LA LIGA 2 HD" tvg-logo="https://i.ibb.co/k2gT19L/download.png" group-title="ESPAÑA DEPORTES",ES: DAZN LA LIGA 2 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/404178
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/404178
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="ES: DAZN LA LIGA 2 FHD" tvg-logo="https://i.ibb.co/k2gT19L/download.png" group-title="ESPAÑA DEPORTES",ES: DAZN LA LIGA 2 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/404177
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/404177
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: DAZN F1 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="ESPAÑA DEPORTES",ES: DAZN F1 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295173
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295173
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="ESPAÑA DEPORTES",ES: DAZN F1 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295174
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295174
 #EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F1 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="ESPAÑA DEPORTES",ES: DAZN F1 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/582146
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/582146
 #EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="ES: DAZN 4 SD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="ESPAÑA DEPORTES",ES: DAZN 4 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295170
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295170
 #EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="ES: DAZN 4 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="ESPAÑA DEPORTES",ES: DAZN 4 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295171
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295171
 #EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="ES: DAZN 4 FHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="ESPAÑA DEPORTES",ES: DAZN 4 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295172
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295172
 #EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="ES: DAZN 3 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="ESPAÑA DEPORTES",ES: DAZN 3 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295167
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295167
 #EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="ES: DAZN 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="ESPAÑA DEPORTES",ES: DAZN 3 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295168
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295168
 #EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="ES: DAZN 3 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="ESPAÑA DEPORTES",ES: DAZN 3 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295169
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295169
 #EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="ES: DAZN 2 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="ESPAÑA DEPORTES",ES: DAZN 2 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295164
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295164
 #EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="ES: DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="ESPAÑA DEPORTES",ES: DAZN 2 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295165
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295165
 #EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="ES: DAZN 2 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="ESPAÑA DEPORTES",ES: DAZN 2 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295166
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295166
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="ES: DAZN 1 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="ESPAÑA DEPORTES",ES: DAZN 1 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295161
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295161
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="ES: DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="ESPAÑA DEPORTES",ES: DAZN 1 HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295162
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295162
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="ES: DAZN 1 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="ESPAÑA DEPORTES",ES: DAZN 1 FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295163
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295163
 #EXTINF:-1 tvg-id="" tvg-name="ES: DOCUMENTALES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/1200px-Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA DOCUMENTALES",ES: DOCUMENTALES SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781513
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781513
 #EXTINF:-1 tvg-id="" tvg-name="ES: DOCUMENTALES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/1200px-Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA DOCUMENTALES",ES: DOCUMENTALES HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781512
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781512
 #EXTINF:-1 tvg-id="" tvg-name="ES: DOCUMENTALES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/1200px-Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA DOCUMENTALES",ES: DOCUMENTALES FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781510
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781510
 #EXTINF:-1 tvg-id="" tvg-name="ES: SURF SD" tvg-logo="https://i.ibb.co/jZLSD0m/SURF.jpg" group-title="ESPAÑA DOCUMENTALES",ES: SURF SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781196
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781196
 #EXTINF:-1 tvg-id="" tvg-name="ES: SURF HD" tvg-logo="https://i.ibb.co/jZLSD0m/SURF.jpg" group-title="ESPAÑA DOCUMENTALES",ES: SURF HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781195
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781195
 #EXTINF:-1 tvg-id="" tvg-name="ES: SURF FHD" tvg-logo="https://i.ibb.co/jZLSD0m/SURF.jpg" group-title="ESPAÑA DOCUMENTALES",ES: SURF FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781194
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781194
 #EXTINF:-1 tvg-id="" tvg-name="ES: ONETORO SD" tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="ESPAÑA DOCUMENTALES",ES: ONETORO SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781241
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781241
 #EXTINF:-1 tvg-id="" tvg-name="ES: ONETORO HD" tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="ESPAÑA DOCUMENTALES",ES: ONETORO HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781240
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781240
 #EXTINF:-1 tvg-id="" tvg-name="ES: ONETORO FHD" tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="ESPAÑA DOCUMENTALES",ES: ONETORO FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781239
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781239
 #EXTINF:-1 tvg-id="Toros HD" tvg-name="ES: MUNDOTORO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Toros-movistar.png" group-title="ESPAÑA DOCUMENTALES",ES: MUNDOTORO SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/116
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/116
 #EXTINF:-1 tvg-id="Toros HD" tvg-name="ES: MUNDOTORO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Toros-movistar.png" group-title="ESPAÑA DOCUMENTALES",ES: MUNDOTORO HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/150615
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/150615
 #EXTINF:-1 tvg-id="Toros HD" tvg-name="ES: MUNDOTORO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Toros-movistar.png" group-title="ESPAÑA DOCUMENTALES",ES: MUNDOTORO FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295546
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295546
 #EXTINF:-1 tvg-id="Odisea" tvg-name="ES: ODISEA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ODISEA.png/440px-ODISEA.png" group-title="ESPAÑA DOCUMENTALES",ES: ODISEA SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/451629
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/451629
 #EXTINF:-1 tvg-id="Odisea" tvg-name="ES: ODISEA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ODISEA.png/440px-ODISEA.png" group-title="ESPAÑA DOCUMENTALES",ES: ODISEA HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295534
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295534
 #EXTINF:-1 tvg-id="Odisea" tvg-name="ES: ODISEA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ODISEA.png/440px-ODISEA.png" group-title="ESPAÑA DOCUMENTALES",ES: ODISEA FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295535
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295535
 #EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="ES: NAT GEO WILD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="ESPAÑA DOCUMENTALES",ES: NAT GEO WILD SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/25
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/25
 #EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="ES: NAT GEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="ESPAÑA DOCUMENTALES",ES: NAT GEO WILD HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295539
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295539
 #EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="ES: NAT GEO WILD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="ESPAÑA DOCUMENTALES",ES: NAT GEO WILD FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295540
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295540
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-name="ES: NAT GEO SD" tvg-logo="http://edge.iptvland.nl/images/665009c30f9c9e343c0fd675e0d20826.png" group-title="ESPAÑA DOCUMENTALES",ES: NAT GEO SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295551
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295551
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-name="ES: NAT GEO HD" tvg-logo="http://edge.iptvland.nl:80/images/665009c30f9c9e343c0fd675e0d20826.png" group-title="ESPAÑA DOCUMENTALES",ES: NAT GEO HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/56
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/56
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-name="ES: NAT GEO FHD" tvg-logo="http://edge.iptvland.nl/images/665009c30f9c9e343c0fd675e0d20826.png" group-title="ESPAÑA DOCUMENTALES",ES: NAT GEO FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295552
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295552
 #EXTINF:-1 tvg-id="Moto ADV" tvg-name="ES: MOTO ADV SD" tvg-logo="https://www.sourcenet.es/wp-content/uploads/2021/08/channel-moto-adv.png" group-title="ESPAÑA DOCUMENTALES",ES: MOTO ADV SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572973
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572973
 #EXTINF:-1 tvg-id="Moto ADV" tvg-name="ES: MOTO ADV HD" tvg-logo="https://www.sourcenet.es/wp-content/uploads/2021/08/channel-moto-adv.png" group-title="ESPAÑA DOCUMENTALES",ES: MOTO ADV HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572972
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572972
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOTO ADV FHD" tvg-logo="https://www.sourcenet.es/wp-content/uploads/2021/08/channel-moto-adv.png" group-title="ESPAÑA DOCUMENTALES",ES: MOTO ADV FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/598734
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/598734
 #EXTINF:-1 tvg-id="" tvg-name="ES: MASCOTAS TV FHD" tvg-logo="http://www.azuzen.com/azuzen/wp-content/uploads/logo-tv-canalmascota.jpg" group-title="ESPAÑA DOCUMENTALES",ES: MASCOTAS TV FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572971
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572971
 #EXTINF:-1 tvg-id="" tvg-name="ES: MAS MEDIA TV FHD" tvg-logo="https://www.contenidostv.es/images/spsimpleportfolio/masmedia-tv/masmediatv_600x400.png" group-title="ESPAÑA DOCUMENTALES",ES: MAS MEDIA TV FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572970
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572970
 #EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES: IBERALIA ORIGINAL SD" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png" group-title="ESPAÑA DOCUMENTALES",ES: IBERALIA ORIGINAL SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572950
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572950
 #EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES: IBERALIA ORIGINAL HD" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png" group-title="ESPAÑA DOCUMENTALES",ES: IBERALIA ORIGINAL HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/179120
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/179120
 #EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES: IBERALIA ORIGINAL FHD" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png" group-title="ESPAÑA DOCUMENTALES",ES: IBERALIA ORIGINAL FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/436564
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/436564
 #EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA SD" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/ce/46/ce461169-432d-4017-85ea-e1031e37bab3/unnamed_1.png__400x400_q85_subsampling-2.png" group-title="ESPAÑA DOCUMENTALES",ES: IBERALIA 100% PESCA SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572946
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572946
 #EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA HD" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/ce/46/ce461169-432d-4017-85ea-e1031e37bab3/unnamed_1.png__400x400_q85_subsampling-2.png" group-title="ESPAÑA DOCUMENTALES",ES: IBERALIA 100% PESCA HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572945
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572945
 #EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA FHD" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/ce/46/ce461169-432d-4017-85ea-e1031e37bab3/unnamed_1.png__400x400_q85_subsampling-2.png" group-title="ESPAÑA DOCUMENTALES",ES: IBERALIA 100% PESCA FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572944
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572944
 #EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA SD" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/92/13/9213f37d-340f-4761-bc3a-f67922d17616/unnamed.png__400x400_q85_subsampling-2.png" group-title="ESPAÑA DOCUMENTALES",ES: IBERALIA 100% CAZA SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572947
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572947
 #EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA HD" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/92/13/9213f37d-340f-4761-bc3a-f67922d17616/unnamed.png__400x400_q85_subsampling-2.png" group-title="ESPAÑA DOCUMENTALES",ES: IBERALIA 100% CAZA HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572948
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572948
 #EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA FHD" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/92/13/9213f37d-340f-4761-bc3a-f67922d17616/unnamed.png__400x400_q85_subsampling-2.png" group-title="ESPAÑA DOCUMENTALES",ES: IBERALIA 100% CAZA FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572949
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572949
 #EXTINF:-1 tvg-id="Historia" tvg-name="ES: HISTORIA SD" tvg-logo="http://edge.iptvland.nl:8080/images/ee2fdd11d2403a7d6296768e005d8e47.png" group-title="ESPAÑA DOCUMENTALES",ES: HISTORIA SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/51
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/51
 #EXTINF:-1 tvg-id="Historia" tvg-name="ES: HISTORIA HD" tvg-logo="http://edge.iptvland.nl:8080/images/ee2fdd11d2403a7d6296768e005d8e47.png" group-title="ESPAÑA DOCUMENTALES",ES: HISTORIA HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295532
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295532
 #EXTINF:-1 tvg-id="Historia" tvg-name="ES: HISTORIA FHD" tvg-logo="http://edge.iptvland.nl:8080/images/ee2fdd11d2403a7d6296768e005d8e47.png" group-title="ESPAÑA DOCUMENTALES",ES: HISTORIA FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295533
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295533
 #EXTINF:-1 tvg-id="Escapa TV" tvg-name="ES: ESCAPA TV SD" tvg-logo="https://www.redjam.es/wp-content/uploads/2022/02/escapatv.jpeg" group-title="ESPAÑA DOCUMENTALES",ES: ESCAPA TV SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572962
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572962
 #EXTINF:-1 tvg-id="Escapa TV" tvg-name="ES: ESCAPA TV HD" tvg-logo="https://www.redjam.es/wp-content/uploads/2022/02/escapatv.jpeg" group-title="ESPAÑA DOCUMENTALES",ES: ESCAPA TV HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572961
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572961
 #EXTINF:-1 tvg-id="Escapa TV" tvg-name="ES: ESCAPA TV FHD" tvg-logo="https://www.redjam.es/wp-content/uploads/2022/02/escapatv.jpeg" group-title="ESPAÑA DOCUMENTALES",ES: ESCAPA TV FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572960
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572960
 #EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: EL TORO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="ESPAÑA DOCUMENTALES",ES: EL TORO FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295851
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295851
 #EXTINF:-1 tvg-id="" tvg-name="ES: DVIAJE FHD" tvg-logo="https://i.ibb.co/BcLsj45/download.png" group-title="ESPAÑA DOCUMENTALES",ES: DVIAJE FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572959
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572959
 #EXTINF:-1 tvg-id="DKISS" tvg-name="ES: DKISS SD" tvg-logo="http://edge.iptvland.nl:8080/images/afccc3195fe20727961833a33a594537.png" group-title="ESPAÑA DOCUMENTALES",ES: DKISS SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/70
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/70
 #EXTINF:-1 tvg-id="Discovery" tvg-name="ES: DISCOVERY SD" tvg-logo="https://www.waterstudio.nl/wp-content/uploads/2010/01/Waterstudio-news-discoverychannel1.png" group-title="ESPAÑA DOCUMENTALES",ES: DISCOVERY SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/47
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/47
 #EXTINF:-1 tvg-id="Discovery" tvg-name="ES: DISCOVERY HD" tvg-logo="https://www.waterstudio.nl/wp-content/uploads/2010/01/Waterstudio-news-discoverychannel1.png" group-title="ESPAÑA DOCUMENTALES",ES: DISCOVERY HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295541
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295541
 #EXTINF:-1 tvg-id="Discovery" tvg-name="ES: DISCOVERY FHD" tvg-logo="https://www.waterstudio.nl/wp-content/uploads/2010/01/Waterstudio-news-discoverychannel1.png" group-title="ESPAÑA DOCUMENTALES",ES: DISCOVERY FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295542
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295542
 #EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="ES: CRIMEN+ INVESTIGACION SD" tvg-logo="http://edge.iptvland.nl/images/82354908d326d6b73c7b723c276ddefe.png" group-title="ESPAÑA DOCUMENTALES",ES: CRIMEN+ INVESTIGACION SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295550
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295550
 #EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="ES: CRIMEN+ INVESTIGACION HD" tvg-logo="http://edge.iptvland.nl:80/images/82354908d326d6b73c7b723c276ddefe.png" group-title="ESPAÑA DOCUMENTALES",ES: CRIMEN+ INVESTIGACION HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/44
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/44
 #EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISION FHD" tvg-logo="https://i.ibb.co/44jQ10R/casavizion.png" group-title="ESPAÑA DOCUMENTALES",ES: CAZAVISION FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391403
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391403
 #EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="ES: CAZA Y PESCA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" group-title="ESPAÑA DOCUMENTALES",ES: CAZA Y PESCA SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/40
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/40
 #EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" group-title="ESPAÑA DOCUMENTALES",ES: CAZA Y PESCA HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/97
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/97
 #EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" group-title="ESPAÑA DOCUMENTALES",ES: CAZA Y PESCA FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/356094
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/356094
 #EXTINF:-1 tvg-id="Decasa" tvg-name="ES: CANAL DE CASA SD" tvg-logo="https://getlogo.net/wp-content/uploads/2019/08/canal-decasa-logo-vector.png" group-title="ESPAÑA DOCUMENTALES",ES: CANAL DE CASA SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/13
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/13
 #EXTINF:-1 tvg-id="Decasa" tvg-name="ES: CANAL DE CASA HD" tvg-logo="https://getlogo.net/wp-content/uploads/2019/08/canal-decasa-logo-vector.png" group-title="ESPAÑA DOCUMENTALES",ES: CANAL DE CASA HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295543
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295543
 #EXTINF:-1 tvg-id="Decasa" tvg-name="ES: CANAL DE CASA FHD" tvg-logo="https://getlogo.net/wp-content/uploads/2019/08/canal-decasa-logo-vector.png" group-title="ESPAÑA DOCUMENTALES",ES: CANAL DE CASA FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295544
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295544
 #EXTINF:-1 tvg-id="Canal Cocina" tvg-name="ES: CANAL COCINA SD" tvg-logo="https://i.ibb.co/jMYSwkD/channels4-profile.jpg" group-title="ESPAÑA DOCUMENTALES",ES: CANAL COCINA SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/37
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/37
 #EXTINF:-1 tvg-id="Canal Cocina" tvg-name="ES: CANAL COCINA HD" tvg-logo="https://i.ibb.co/jMYSwkD/channels4-profile.jpg" group-title="ESPAÑA DOCUMENTALES",ES: CANAL COCINA HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/150627
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/150627
 #EXTINF:-1 tvg-id="Canal Cocina" tvg-name="ES: CANAL COCINA FHD" tvg-logo="https://i.ibb.co/jMYSwkD/channels4-profile.jpg" group-title="ESPAÑA DOCUMENTALES",ES: CANAL COCINA FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295545
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295545
 #EXTINF:-1 tvg-id="MOTORVISION.TV" tvg-name="ES: ANTENA MOTOR FHD" tvg-logo="https://www.contenidostv.es/images/spsimpleportfolio/antena-motor/AntenaMotor_600x400.png" group-title="ESPAÑA DOCUMENTALES",ES: ANTENA MOTOR FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572954
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572954
 #EXTINF:-1 tvg-id="UBEAT" tvg-name="ES: UBEAT SD" tvg-logo="https://satcesc.com/wp-content/uploads/2018/11/U-Beat.png" group-title="ESPAÑA INFANTILES",ES: UBEAT SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391166
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391166
 #EXTINF:-1 tvg-id="UBEAT" tvg-name="ES: UBEAT HD" tvg-logo="https://satcesc.com/wp-content/uploads/2018/11/U-Beat.png" group-title="ESPAÑA INFANTILES",ES: UBEAT HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391143
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391143
 #EXTINF:-1 tvg-id="UBEAT" tvg-name="ES: UBEAT FHD" tvg-logo="https://satcesc.com/wp-content/uploads/2018/11/U-Beat.png" group-title="ESPAÑA INFANTILES",ES: UBEAT FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391138
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391138
 #EXTINF:-1 tvg-id="" tvg-name="ES: PEQUERADIO HD" tvg-logo="https://static.wixstatic.com/media/76b12f_7f5399c067cd448cb08f1bc3a01e384f~mv2.png" group-title="ESPAÑA INFANTILES",ES: PEQUERADIO HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572976
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572976
 #EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="ES: NICKELODEON SD" tvg-logo="https://seeklogo.com/images/N/nickelodeon-logo-5DEA5FA222-seeklogo.com.png" group-title="ESPAÑA INFANTILES",ES: NICKELODEON SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/114
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/114
 #EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="ES: NICKELODEON HD" tvg-logo="https://seeklogo.com/images/N/nickelodeon-logo-5DEA5FA222-seeklogo.com.png" group-title="ESPAÑA INFANTILES",ES: NICKELODEON HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/95
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/95
 #EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="ES: NICKELODEON FHD" tvg-logo="https://seeklogo.com/images/N/nickelodeon-logo-5DEA5FA222-seeklogo.com.png" group-title="ESPAÑA INFANTILES",ES: NICKELODEON FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295670
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295670
 #EXTINF:-1 tvg-id="Nick JR" tvg-name="ES: NICK JR SD" tvg-logo="https://nickjr.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/webplex/site/nick-jr/nick-jr-preview.png" group-title="ESPAÑA INFANTILES",ES: NICK JR SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/2482
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/2482
 #EXTINF:-1 tvg-id="Nick JR" tvg-name="ES: NICK JR HD" tvg-logo="https://nickjr.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/webplex/site/nick-jr/nick-jr-preview.png" group-title="ESPAÑA INFANTILES",ES: NICK JR HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295668
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295668
 #EXTINF:-1 tvg-id="Nick JR" tvg-name="ES: NICK JR FHD" tvg-logo="https://nickjr.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/webplex/site/nick-jr/nick-jr-preview.png" group-title="ESPAÑA INFANTILES",ES: NICK JR FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295669
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295669
 #EXTINF:-1 tvg-id="Dreamworks HD" tvg-name="ES: M+ DREAMWORKS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png" group-title="ESPAÑA INFANTILES",ES: M+ DREAMWORKS SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295855
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295855
 #EXTINF:-1 tvg-id="Dreamworks HD" tvg-name="ES: M+ DREAMWORKS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png" group-title="ESPAÑA INFANTILES",ES: M+ DREAMWORKS HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295856
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295856
 #EXTINF:-1 tvg-id="Dreamworks HD" tvg-name="ES: M+ DREAMWORKS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png" group-title="ESPAÑA INFANTILES",ES: M+ DREAMWORKS FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295857
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295857
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="ES: DISNEY JUNIOR SD" tvg-logo="https://www.kindpng.com/picc/m/19-194195_disney-junior-logo-disney-junior-channel-logo-hd.png" group-title="ESPAÑA INFANTILES",ES: DISNEY JUNIOR SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/18
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/18
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="ES: DISNEY JUNIOR HD" tvg-logo="https://www.kindpng.com/picc/m/19-194195_disney-junior-logo-disney-junior-channel-logo-hd.png" group-title="ESPAÑA INFANTILES",ES: DISNEY JUNIOR HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295671
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295671
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="ES: DISNEY JUNIOR FHD" tvg-logo="https://www.kindpng.com/picc/m/19-194195_disney-junior-logo-disney-junior-channel-logo-hd.png" group-title="ESPAÑA INFANTILES",ES: DISNEY JUNIOR FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295672
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295672
 #EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="ES: DISNEY CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/640px-DisneyChannelEMEA.svg.png" group-title="ESPAÑA INFANTILES",ES: DISNEY CHANNEL SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/48
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/48
 #EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="ES: DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/640px-DisneyChannelEMEA.svg.png" group-title="ESPAÑA INFANTILES",ES: DISNEY CHANNEL HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/176139
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/176139
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="ES: DISNEY CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/640px-DisneyChannelEMEA.svg.png" group-title="ESPAÑA INFANTILES",ES: DISNEY CHANNEL FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/98
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/98
 #EXTINF:-1 tvg-id="Clan" tvg-name="ES: CLAN TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="ESPAÑA INFANTILES",ES: CLAN TV SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/41
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/41
 #EXTINF:-1 tvg-id="Clan" tvg-name="ES: CLAN TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="ESPAÑA INFANTILES",ES: CLAN TV HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/112
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/112
 #EXTINF:-1 tvg-id="Clan" tvg-name="ES: CLAN TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="ESPAÑA INFANTILES",ES: CLAN TV FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295667
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295667
 #EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="ES: EN FAMILIA SD" tvg-logo="https://i.ibb.co/ThDhNBM/channels4-profile.jpg" group-title="ESPAÑA INFANTILES",ES: EN FAMILIA SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/15
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/15
 #EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="ES: EN FAMILIA HD" tvg-logo="https://i.ibb.co/ThDhNBM/channels4-profile.jpg" group-title="ESPAÑA INFANTILES",ES: EN FAMILIA HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295674
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295674
 #EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="ES: EN FAMILIA FHD" tvg-logo="https://i.ibb.co/ThDhNBM/channels4-profile.jpg" group-title="ESPAÑA INFANTILES",ES: EN FAMILIA FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295675
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295675
 #EXTINF:-1 tvg-id="Boing" tvg-name="ES: BOING SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Boing_Logo.svg/2560px-Boing_Logo.svg.png" group-title="ESPAÑA INFANTILES",ES: BOING SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/6
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/6
 #EXTINF:-1 tvg-id="Boing" tvg-name="ES: BOING HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Boing_Logo.svg/2560px-Boing_Logo.svg.png" group-title="ESPAÑA INFANTILES",ES: BOING HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/150637
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/150637
 #EXTINF:-1 tvg-id="Boing" tvg-name="ES: BOING FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Boing_Logo.svg/2560px-Boing_Logo.svg.png" group-title="ESPAÑA INFANTILES",ES: BOING FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391130
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391130
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="ES: BABY TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="ESPAÑA INFANTILES",ES: BABY TV SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/4
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/4
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="ES: BABY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="ESPAÑA INFANTILES",ES: BABY TV HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295673
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295673
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="ES: BABY TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="ESPAÑA INFANTILES",ES: BABY TV FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391129
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391129
 #EXTINF:-1 tvg-id="" tvg-name="ES: MUSICA SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Movistar_Musica_Logo.png" group-title="ESPAÑA MUSICA",ES: MUSICA SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781321
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781321
 #EXTINF:-1 tvg-id="" tvg-name="ES: MUSICA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Movistar_Musica_Logo.png" group-title="ESPAÑA MUSICA",ES: MUSICA HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781320
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781320
 #EXTINF:-1 tvg-id="" tvg-name="ES: MUSICA FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Movistar_Musica_Logo.png" group-title="ESPAÑA MUSICA",ES: MUSICA FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781319
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781319
 #EXTINF:-1 tvg-id="" tvg-name="ES: ORIGINALES SD" tvg-logo="https://seeklogo.com/images/M/movistar-2017-logo-E5302D14EF-seeklogo.com.png" group-title="ESPAÑA MUSICA",ES: ORIGINALES SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781499
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781499
 #EXTINF:-1 tvg-id="" tvg-name="ES: ORIGINALES HD" tvg-logo="https://seeklogo.com/images/M/movistar-2017-logo-E5302D14EF-seeklogo.com.png" group-title="ESPAÑA MUSICA",ES: ORIGINALES HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781498
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781498
 #EXTINF:-1 tvg-id="" tvg-name="ES: ORIGINALES FHD" tvg-logo="https://seeklogo.com/images/M/movistar-2017-logo-E5302D14EF-seeklogo.com.png" group-title="ESPAÑA MUSICA",ES: ORIGINALES FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781497
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/781497
 #EXTINF:-1 tvg-id="MTV España" tvg-name="ES: MTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="ESPAÑA MUSICA",ES: MTV SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/23
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/23
 #EXTINF:-1 tvg-id="MTV España" tvg-name="ES: MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="ESPAÑA MUSICA",ES: MTV HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295676
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295676
 #EXTINF:-1 tvg-id="MTV España" tvg-name="ES: MTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="ESPAÑA MUSICA",ES: MTV FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391127
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391127
 #EXTINF:-1 tvg-id="MTV 00s" tvg-name="ES: MTV 00 SD" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/05/mtv00s.jpg" group-title="ESPAÑA MUSICA",ES: MTV 00 SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295677
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/295677
 #EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="ES: MEZZO LIVE SD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/mezzo-live-hd-logo.png" group-title="ESPAÑA MUSICA",ES: MEZZO LIVE SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391159
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391159
 #EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="ES: MEZZO LIVE HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/mezzo-live-hd-logo.png" group-title="ESPAÑA MUSICA",ES: MEZZO LIVE HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/113
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/113
 #EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="ES: MEZZO LIVE FHD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/mezzo-live-hd-logo.png" group-title="ESPAÑA MUSICA",ES: MEZZO LIVE FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391122
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391122
 #EXTINF:-1 tvg-id="Negocios TV" tvg-name="ES: M+ NEGOCIOS SD" tvg-logo="https://pbs.twimg.com/profile_images/1348574671692816384/g-T6kUxu_400x400.png" group-title="ESPAÑA MUSICA",ES: M+ NEGOCIOS SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315443
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315443
 #EXTINF:-1 tvg-id="Negocios TV" tvg-name="ES: M+ NEGOCIOS HD" tvg-logo="https://pbs.twimg.com/profile_images/1348574671692816384/g-T6kUxu_400x400.png" group-title="ESPAÑA MUSICA",ES: M+ NEGOCIOS HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315442
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/315442
 #EXTINF:-1 tvg-id="Negocios TV" tvg-name="ES: M+ NEGOCIOS FHD" tvg-logo="https://pbs.twimg.com/profile_images/1348574671692816384/g-T6kUxu_400x400.png" group-title="ESPAÑA MUSICA",ES: M+ NEGOCIOS FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391128
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391128
 #EXTINF:-1 tvg-id="Classica HD" tvg-name="ES: CLASSICA SD" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/otros-canales-tv/img/160x130/unitel_clasica.jpg" group-title="ESPAÑA MUSICA",ES: CLASSICA SD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391158
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391158
 #EXTINF:-1 tvg-id="Classica HD" tvg-name="ES: CLASSICA HD" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/otros-canales-tv/img/160x130/unitel_clasica.jpg" group-title="ESPAÑA MUSICA",ES: CLASSICA HD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/451949
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/451949
 #EXTINF:-1 tvg-id="Classica HD" tvg-name="ES: CLASSICA FHD" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/otros-canales-tv/img/160x130/unitel_clasica.jpg" group-title="ESPAÑA MUSICA",ES: CLASSICA FHD
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391121
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/391121
 #EXTINF:-1 tvg-id="" tvg-name="|ES|: 101TV Malaga" tvg-logo="" group-title="ESPAÑA LOCALES",|ES|: 101TV Malaga
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|ES|: Bon Dia TV" tvg-logo="" group-title="ESPAÑA LOCALES",|ES|: Bon Dia TV
@@ -776,7 +776,7 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|ES|: ETB 2" tvg-logo="" group-title="ESPAÑA LOCALES",|ES|: ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|ES|: Interalmeria TV" tvg-logo="" group-title="ESPAÑA LOCALES",|ES|: Interalmeria TV
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/181340
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/181340
 #EXTINF:-1 tvg-id="" tvg-name="|ES|: Popular TV Cantabria" tvg-logo="" group-title="ESPAÑA LOCALES",|ES|: Popular TV Cantabria
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|ES|: Radio Televisión Melilla" tvg-logo="" group-title="ESPAÑA LOCALES",|ES|: Radio Televisión Melilla
@@ -788,16 +788,16 @@ http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|ES|: Televisión de Galicia Europa" tvg-logo="" group-title="ESPAÑA LOCALES",|ES|: Televisión de Galicia Europa
 http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|ES|: TV3CAT" tvg-logo="" group-title="ESPAÑA LOCALES",|ES|: TV3CAT
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/181356
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/181356
 #EXTINF:-1 tvg-id="" tvg-name="|ES|: TVG" tvg-logo="" group-title="ESPAÑA LOCALES",|ES|: TVG
 http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|ES|: TVG 2" tvg-logo="" group-title="ESPAÑA LOCALES",|ES|: TVG 2
 http://events2-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES: 7 REGION DE MURCIA" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.Q6SCI-0IXf-OPCCKFc6BtgHaDG&pid=Api" group-title="ESPAÑA LOCALES",ES: 7 REGION DE MURCIA
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572926
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572926
 #EXTINF:-1 tvg-id="" tvg-name="ES: 8 Mediterraneo" tvg-logo="hd743k4k343" group-title="ESPAÑA LOCALES",ES: 8 Mediterraneo
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572927
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/572927
 #EXTINF:-1 tvg-id="" tvg-name="ES: CANAL HUELVA" tvg-logo="https://huelvatv.com/wp-content/uploads/2016/03/logo2.png" group-title="ESPAÑA LOCALES",ES: CANAL HUELVA
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/574153
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/574153
 #EXTINF:-1 tvg-id="" tvg-name="ES: TELEONUBA" tvg-logo="https://iteleflix.com/archivos/Logo-Teleonuba-200x130.png" group-title="ESPAÑA LOCALES",ES: TELEONUBA
-http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/574158
+http://cloud.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/574158
